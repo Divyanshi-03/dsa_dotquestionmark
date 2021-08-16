@@ -1,4 +1,5 @@
 // method 1 
+
 #include <stdio.h>
 #include<iostream>
 #include<math.h>
@@ -21,7 +22,10 @@ int main()
 
     return 0;
 }
+
+********************************************************************************************************************************************************************
 // method 2 
+// same code can be used to print pascals triangle as ncr= n-1cr + n-1cr-1 
 #include <stdio.h>
 #include<iostream>
 #include<math.h>
